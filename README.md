@@ -2,8 +2,6 @@
 
 This example app demonstrates KYC and identity verification with document scanning, facial recognition, liveness detection, and NFC eID support.
 
-> **⚠️ Commercial License Required** - Contact [support@trustchex.com](mailto:support@trustchex.com)
-
 ## Features
 
 - 📄 Document scanning (passport, ID cards) with OCR
