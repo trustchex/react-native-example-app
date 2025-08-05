@@ -1,0 +1,93 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "CFBundleDisplayName" : {
+      "comment" : "Bundle display name",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Trustchex"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trustchex"
+          }
+        }
+      }
+    },
+    "CFBundleName" : {
+      "comment" : "Bundle name",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Trustchex"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trustchex"
+          }
+        }
+      }
+    },
+    "NFCReaderUsageDescription" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The app uses NFC technology to securely read data from your ID card or passport as part of the identity verification process."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uygulama, kimlik doğrulama sürecinin bir parçası olarak kimlik kartınızdan veya pasaportunuzdan güvenli bir şekilde veri okumak için NFC teknolojisini kullanır."
+          }
+        }
+      }
+    },
+    "NSCameraUsageDescription" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The app uses your device’s camera to scan your ID card or passport. It is also required for recording videos and taking selfies as part of the identity verification process."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uygulama, kimlik kartınızı veya pasaportunuzu taramak için cihazınızın kamerasını kullanır. Ayrıca, kimlik doğrulama sürecinin bir parçası olarak video kaydetmek ve selfie çekmek için gereklidir."
+          }
+        }
+      }
+    },
+    "NSMicrophoneUsageDescription" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The app uses the microphone to record videos with audio, ensuring compliance with KYC regulations for identity verification."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uygulama, kimlik doğrulama sürecinde KYC düzenlemelerine uyum sağlamak amacıyla sesiyle birlikte video kaydetmek için mikrofonu kullanır."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
