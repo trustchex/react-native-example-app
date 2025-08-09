@@ -1649,10 +1649,9 @@
   dependencies:
     "@sinonjs/commons" "^3.0.0"
 
-"@trustchex/react-native-sdk@file:./trustchex-react-native-sdk-1.151.0.tgz":
+"@trustchex/react-native-sdk@file:./trustchex-react-native-sdk-1.152.0.tgz":
   version "0.0.0"
-  resolved "file:trustchex-react-native-sdk-1.151.0.tgz"
-  integrity sha512-0s9n4WUEHxDa0AAdzb8slYoZMycIZbMaSZGVC2pavG/w1J6K9TGHWhnut/zpi4DlyZICzcrSEVrTd8g8Fy8qWw==
+  resolved "file:./trustchex-react-native-sdk-1.152.0.tgz#e3f91694fda8618d13eea963fa4b5b82e7ac3d9e"
   dependencies:
     "@noble/ciphers" "^1.3.0"
     "@noble/curves" "^1.9.4"
