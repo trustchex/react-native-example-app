@@ -104,11 +104,11 @@ const [baseUrl, sessionId] = handleDeepLink({
 
 ```xml
 <key>NSCameraUsageDescription</key>
-<string>Camera access for document scanning and selfie capture</string>
+<string>This app uses the camera to scan your ID, passport, and face for secure identity verification.</string>
 <key>NSMicrophoneUsageDescription</key>
-<string>Microphone access for video recording during verification</string>
+<string>This app uses the microphone to record video with audio for secure identity verification.</string>
 <key>NFCReaderUsageDescription</key>
-<string>NFC access to read electronic ID cards</string>
+<string>This app uses NFC to read your ID or passport for secure identity verification.</string>
 ```
 
 ### Android Permissions (AndroidManifest.xml)
