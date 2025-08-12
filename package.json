@@ -15,7 +15,7 @@
     "@react-navigation/native": "^7.1.16",
     "@react-navigation/native-stack": "^7.3.23",
     "@react-navigation/stack": "^7.4.4",
-    "@trustchex/react-native-sdk": "1.161.0",
+    "@trustchex/react-native-sdk": "1.162.8",
     "lottie-react-native": "^7.2.4",
     "react": "19.0.0",
     "react-native": "0.79.5",
