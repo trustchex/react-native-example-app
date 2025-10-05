@@ -4,7 +4,8 @@ buildscript {
         minSdkVersion = 31
         compileSdkVersion = 36
         targetSdkVersion = 36
-        ndkVersion = "27.1.12297006"
+        // Updated to NDK r28 for native 16 KB page size support
+        ndkVersion = "28.2.13676358"
         kotlinVersion = "2.0.21"
     }
     repositories {
@@ -12,7 +13,8 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        classpath("com.android.tools.build:gradle")
+        // Explicitly set AGP 8.7.3 for 16 KB page size support
+        classpath("com.android.tools.build:gradle:8.7.3")
         classpath("com.facebook.react:react-native-gradle-plugin")
         classpath("org.jetbrains.kotlin:kotlin-gradle-plugin")
     }
