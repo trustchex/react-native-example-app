@@ -47,6 +47,8 @@
 	</dict>
 	<key>NSCameraUsageDescription</key>
 	<string>This app uses the camera to scan your ID, passport, and face for secure identity verification.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app does not use your location. This permission is required by third-party dependencies but location features are not accessed.</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>This app uses the microphone to record video with audio for secure identity verification.</string>
 	<key>RCTNewArchEnabled</key>
