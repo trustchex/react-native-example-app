@@ -1649,10 +1649,10 @@
   dependencies:
     "@sinonjs/commons" "^3.0.0"
 
-"@trustchex/react-native-sdk@1.175.6":
-  version "1.175.6"
-  resolved "https://registry.yarnpkg.com/@trustchex/react-native-sdk/-/react-native-sdk-1.175.6.tgz#497b770461fb8619ec3b0f4f0a9685a9c31ed68f"
-  integrity sha512-KNuHyGQgnVkvmum03xW1dBMgFjS+KniXqlbwXrybwLKKtwOdqt0swqIrq7vGc+su0lMiUbygnbYRGqhr4wyhIQ==
+"@trustchex/react-native-sdk@1.249.0":
+  version "1.249.0"
+  resolved "https://registry.yarnpkg.com/@trustchex/react-native-sdk/-/react-native-sdk-1.249.0.tgz#84dfedcc2294a52965b0622b76e556efd909157a"
+  integrity sha512-ehJ/1VNL3aWwrVjIBoaUw6bWfvcbM6859NlbagPXRPuNECA2CEy+ek2vtRajRxftcSvcJYS68rpZxcbSzWBRkw==
   dependencies:
     "@noble/ciphers" "^1.3.0"
     "@noble/curves" "^1.9.4"
